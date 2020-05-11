@@ -1,0 +1,22 @@
+td{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size:50px;
+}
+
+#top-center{
+    border-width: 0px 1px;
+    border-color:black;
+    border-style: solid;
+}
+
+#mid-side{
+    border-width: 1px 0px;
+    border-color: black;
+    border-style: solid;
+}
+
+#mid-center{
+    border: 1px solid black;
+}
